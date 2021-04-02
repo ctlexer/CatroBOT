@@ -9,11 +9,11 @@ CatroBOT a simple Discord bot for the Catrobat Discord server.
 CatroBOT allows the users to ask questions related to PocketCode, and others to find and answer these questions.
 
 The available commands are as follows:
-- '!howto' Outputs available commands to the user privately.
-- '!idea' Outputs a randomly generated project idea to a public channel.
-- '!help' Shows all questions askes by users stored in the database.
-- '!ask [QUESTION]' Adds a question to the list.
-- '!solved' Marks a question as resolved.
+- `!howto` Outputs available commands to the user privately.
+- `!idea` Outputs a randomly generated project idea to a public channel.
+- `!help` Shows all questions askes by users stored in the database.
+- `!ask [QUESTION]` Adds a question to the list.
+- `!solved` Marks a question as resolved.
 
 ## Installation
 
