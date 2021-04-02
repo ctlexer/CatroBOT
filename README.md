@@ -21,12 +21,12 @@ Make sure you have downloaded and installed:
  * Node.js
  * NPM
 
-Clone this repository `git clone https://github.com/Spiderjockey02/Discord-Bot.git`.
+Clone this repository `git clone https://github.com/ctlexer/CatroBOT.git`.
 
 Next run the following commands:
 ```
-$ cd CatroBOT
-$ npm install
+cd CatroBOT
+npm install
 ```
 
 This will install all the correct dependencies needed for the bot to run.
@@ -38,5 +38,5 @@ Find the file `config.json` and enter your Discord-bot-token. For more informati
 ## Running the bot
 Once the token has been entered the bot can be started.
 ```
-$ node bot.js
+node bot.js
 ```

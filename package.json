@@ -1,0 +1,29 @@
+{
+  "name": "catrobot",
+  "version": "1.0.0",
+  "description": "A simple Discord Bot for the Catrobat Discord server.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctlexer/CatroBOT.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "PocketCode",
+    "Catrobat"
+  ],
+  "author": "Christian Lexer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctlexer/CatroBOT/issues"
+  },
+  "homepage": "https://github.com/ctlexer/CatroBOT#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "sqlite3": "^5.0.2"
+  }
+}
